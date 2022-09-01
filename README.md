@@ -1,0 +1,2 @@
+# Buy-Me-Coffee
+ Buy Me A Coffee is a popular website that creators, educators, entertainers, and all kinds of people use to create a landing page where anyone can send some amount of money as a thank you for their services. However, in order to use it, you must have a bank account and a credit card. Not everyone has that!  A benefit of decentralized applications built on top of a blockchain is that anyone from around the world can access the app using just an Ethereum wallet, which anyone can set up for free in under 1 minute. Let's see how we can use that to our advantage!
